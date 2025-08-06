@@ -1,0 +1,4 @@
+please_ignore_this_file.txt
+.DS_Store
+*.env
+_site\
